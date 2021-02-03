@@ -23,6 +23,9 @@ app.use(function validateBearerToken(req, res, next) {
     next()
 })
 
+
+// adding a comment
+
 app.get('/movie',  function handleGetMovie(req, res) {
     let response = MOVIEDEX;
 
