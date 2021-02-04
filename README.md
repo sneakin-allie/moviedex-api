@@ -1,6 +1,6 @@
-#Moviedex
+MOVIEDEX
 
-##Create a project called moviedex-api and initialize it as an Express app to meet the following requirements.
+Create a project called moviedex-api and initialize it as an Express app to meet the following requirements.
 
 Users can search for Movies by genre, country or avg_vote
 The endpoint is GET /movie
